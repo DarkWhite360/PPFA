@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|c:\\users\\anton\\onedrive\\documentos\\ads\\4\u00BA semestre\\ppfa\\senac.ads.ppfa.finantonio.winforms\\senac.ads.ppfa.finantonio.winforms\\frmmovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmmovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmmovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmmovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|c:\\users\\anton\\onedrive\\documentos\\ads\\4\u00BA semestre\\ppfa\\senac.ads.ppfa.finantonio.winforms\\senac.ads.ppfa.finantonio.winforms\\frmmovimentacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmmovimentacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmformapagamentolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmformapagamentolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmformapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmformapagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmcontalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmcontalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmpessoalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmpessoalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\senac.ads.ppfa.finantonio.winforms\\frmmovimentacaolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D969126-1F01-4E90-A516-6B056CE029EA}|Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms.csproj|solutionrelative:senac.ads.ppfa.finantonio.winforms\\frmmovimentacaolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMovimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:25:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPessoaLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoaLista.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoaLista.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoaLista.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoaLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:25:12.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPessoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoa.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoa.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoa.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmPessoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:25:11.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMovimentacaoLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacaoLista.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacaoLista.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacaoLista.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacaoLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:25:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMovimentacao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.Designer.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.Designer.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.Designer.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.Designer.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAwwMoBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:16:05.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMovimentacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmMovimentacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:15:54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmFormaPagamentoLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamentoLista.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamentoLista.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamentoLista.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamentoLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:15:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFormaPagamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamento.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamento.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamento.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmFormaPagamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:15:51.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmContaLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmContaLista.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmContaLista.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmContaLista.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmContaLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:15:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmConta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmConta.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmConta.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Documentos\\ADS\\4\u00BA Semestre\\PPFA\\Senac.ADS.PPFA.FinAntonio.WinForms\\Senac.ADS.PPFA.FinAntonio.WinForms\\FrmConta.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.FinAntonio.WinForms\\FrmConta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:15:41.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
