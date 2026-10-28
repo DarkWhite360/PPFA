@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\",
+  "WorkspaceRootPath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07C81DDE-D39A-04E9-E640-0A56E4C7B39F}|Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj|c:\\git\\senac-padroes-de-projeto\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.repositories\\senaceducacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07C81DDE-D39A-04E9-E640-0A56E4C7B39F}|Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj|solutionrelative:senac.ads.ppfa.senaceduca.repositories\\senaceducacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|c:\\git\\senac-padroes-de-projeto\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|solutionrelative:senac.ads.ppfa.senaceduca.model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|c:\\git\\senac-padroes-de-projeto\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.model\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07C81DDE-D39A-04E9-E640-0A56E4C7B39F}|Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.repositories\\senaceducacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C81DDE-D39A-04E9-E640-0A56E4C7B39F}|Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj|solutionrelative:senac.ads.ppfa.senaceduca.repositories\\senaceducacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C81DDE-D39A-04E9-E640-0A56E4C7B39F}|Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.repositories\\senaceducacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C81DDE-D39A-04E9-E640-0A56E4C7B39F}|Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj|solutionrelative:senac.ads.ppfa.senaceduca.repositories\\senaceducacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.model\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|solutionrelative:senac.ads.ppfa.senaceduca.model\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|c:\\git\\senac-padroes-de-projeto\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A5F7F0A-DB1C-7649-77CF-752DA6014759}|Senac.ADS.PPFA.SenacEduca.Model\\Senac.ADS.PPFA.SenacEduca.Model.csproj|solutionrelative:senac.ads.ppfa.senaceduca.model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4699CC0-37BB-4810-BC20-84E188E4F7D6}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\senac.ads.ppfa.senaceduca.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4699CC0-37BB-4810-BC20-84E188E4F7D6}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\senac.ads.ppfa.senaceduca.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4699CC0-37BB-4810-BC20-84E188E4F7D6}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -35,63 +43,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SenacEducaContext.cs",
-              "DocumentMoniker": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
-              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
-              "ToolTip": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAQwIgAAAAPAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:37:25.788Z",
+              "WhenOpened": "2026-10-28T22:34:28.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Disciplina.cs",
-              "DocumentMoniker": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
-              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
-              "ToolTip": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Title": "SenacEducaContextFactory.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContextFactory.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContextFactory.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContextFactory.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T23:02:46.506Z",
+              "WhenOpened": "2026-10-28T22:18:16.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SenacEducaContext.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Repositories\\SenacEducaContext.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwIcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:37:25.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Model\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:02:46.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Professor.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Professor.cs",
               "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Model\\Professor.cs",
-              "ToolTip": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Professor.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Professor.cs",
               "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Model\\Professor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T23:01:31.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T23:01:31.836Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Aluno.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Aluno.cs",
               "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.Model\\Aluno.cs",
-              "ToolTip": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Aluno.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Model\\Aluno.cs",
               "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.Model\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T22:56:10.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Form1.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\Form1.cs",
               "ToolTip": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Form1.cs [Design]",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T22:55:27.83Z"
             }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Senac.ADS.PPFA.SenacEduca.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+147ec5036b4a002c0e33fdf962bdf11312798d69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26c29b780d9d6ffe53b57191514332fd52a93461")]
 [assembly: System.Reflection.AssemblyProductAttribute("Senac.ADS.PPFA.SenacEduca.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Senac.ADS.PPFA.SenacEduca.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

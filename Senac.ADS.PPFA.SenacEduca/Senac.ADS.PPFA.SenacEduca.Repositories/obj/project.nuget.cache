@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qb9V0qy2DBc=",
+  "dgSpecHash": "fSjAGmuwXkM=",
   "success": true,
-  "projectFilePath": "C:\\Git\\senac-padroes-de-projeto\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj",
+  "projectFilePath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.Repositories\\Senac.ADS.PPFA.SenacEduca.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antonio.3970\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\antonio.3970\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
