@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Senac.ADS.PPFA.SenacEduca.WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26c29b780d9d6ffe53b57191514332fd52a93461")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e30eb0b21b71c2a5de57709febc0250c83e7baa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Senac.ADS.PPFA.SenacEduca.WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Senac.ADS.PPFA.SenacEduca.WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
