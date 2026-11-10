@@ -624,6 +624,22 @@
           }
         }
       },
+      "ReaLTaiizor/3.8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0-windows7.0/ReaLTaiizor.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/ReaLTaiizor.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
       "System.Composition/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -1788,6 +1804,38 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
+    "ReaLTaiizor/3.8.2.1": {
+      "sha512": "RNrX7/YruPJfVIfWD0x9EIPmvPH5Mawf7lZbbFuQHhqp3Lo8oO+FNXvVT9JgDu+U/dgeM09ZOdo6SZQrQ16pdQ==",
+      "type": "package",
+      "path": "realtaiizor/3.8.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.MD",
+        "Taiizor.png",
+        "lib/net10.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net10.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net11.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net11.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net48/ReaLTaiizor.dll",
+        "lib/net48/ReaLTaiizor.xml",
+        "lib/net481/ReaLTaiizor.dll",
+        "lib/net481/ReaLTaiizor.xml",
+        "lib/net6.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net6.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net7.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net7.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net8.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net8.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net9.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net9.0-windows7.0/ReaLTaiizor.xml",
+        "lib/netcoreapp3.1/ReaLTaiizor.dll",
+        "lib/netcoreapp3.1/ReaLTaiizor.xml",
+        "realtaiizor.3.8.2.1.nupkg.sha512",
+        "realtaiizor.nuspec"
+      ]
+    },
     "System.Composition/6.0.0": {
       "sha512": "d7wMuKQtfsxUa7S13tITC8n1cQzewuhD5iDjZtK2prwFfKVzdYtgrTHgjaV03Zq7feGQ5gkP85tJJntXwInsJA==",
       "type": "package",
@@ -1940,6 +1988,7 @@
       "Microsoft.Extensions.DependencyInjection >= 10.0.14",
       "Microsoft.Extensions.Options >= 10.0.14",
       "Pomelo.EntityFrameworkCore.MySql >= 8.0.3",
+      "ReaLTaiizor >= 3.8.2.1",
       "Senac.ADS.PPFA.SenacEduca.Model >= 1.0.0",
       "Senac.ADS.PPFA.SenacEduca.Repositories >= 1.0.0"
     ]
@@ -2035,6 +2084,10 @@
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[8.0.3, )"
+          },
+          "ReaLTaiizor": {
+            "target": "Package",
+            "version": "[3.8.2.1, )"
           }
         },
         "imports": [
@@ -2349,5 +2402,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MySqlConnector' 2.3.5 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
 }

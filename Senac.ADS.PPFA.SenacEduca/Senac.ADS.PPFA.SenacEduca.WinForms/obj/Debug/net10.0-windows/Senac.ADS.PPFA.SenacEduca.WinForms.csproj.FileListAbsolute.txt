@@ -103,3 +103,5 @@ C:\Git\PPFA\Senac.ADS.PPFA.SenacEduca\Senac.ADS.PPFA.SenacEduca.WinForms\bin\Deb
 C:\Git\PPFA\Senac.ADS.PPFA.SenacEduca\Senac.ADS.PPFA.SenacEduca.WinForms\bin\Debug\net10.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Git\PPFA\Senac.ADS.PPFA.SenacEduca\Senac.ADS.PPFA.SenacEduca.WinForms\bin\Debug\net10.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Git\PPFA\Senac.ADS.PPFA.SenacEduca\Senac.ADS.PPFA.SenacEduca.WinForms\obj\Debug\net10.0-windows\Senac.ADS.PPFA.SenacEduca.WinForms.FrmAluno.resources
+C:\Git\PPFA\Senac.ADS.PPFA.SenacEduca\Senac.ADS.PPFA.SenacEduca.WinForms\bin\Debug\net10.0-windows\ReaLTaiizor.dll
+C:\Git\PPFA\Senac.ADS.PPFA.SenacEduca\Senac.ADS.PPFA.SenacEduca.WinForms\obj\Debug\net10.0-windows\Senac.ADS.PPFA.SenacEduca.WinForms.FrmAluno1.resources

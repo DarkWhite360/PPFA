@@ -24,14 +24,14 @@ namespace Senac.ADS.PPFA.SenacEduca.WinForms
             var context = ServiceProvider.GetService<SenacEducaContext>();
             context!.Database.Migrate();
 
-            var MainForm = ServiceProvider.GetRequiredService<FrmAluno>();
+            var MainForm = ServiceProvider.GetRequiredService<FrmAluno1>();
             Application.Run(MainForm);
         }
 
         private static void ConfigureServices(IServiceCollection services)
         {
             
-            services.AddTransient<FrmAluno>();
+            services.AddTransient<FrmAluno1>();
             services.AddTransient<SenacEducaContextFactory>();
             services.AddTransient(opt => opt.GetService<SenacEducaContextFactory>()!.CreateDbContext());
         }
