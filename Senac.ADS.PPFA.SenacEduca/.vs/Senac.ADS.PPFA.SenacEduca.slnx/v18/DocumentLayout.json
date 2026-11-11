@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmalunolocalizar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmalunolocalizar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmalunolocalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmalunolocalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmalunolocalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmalunolocalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmaluno1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmaluno1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmaluno1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmaluno1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|c:\\git\\ppfa\\senac.ads.ppfa.senaceduca\\senac.ads.ppfa.senaceduca.winforms\\frmaluno1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmaluno1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\senac.ads.ppfa.senaceduca.winforms\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E644C2D4-28F0-655D-137C-BB58E6DE3691}|Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj|solutionrelative:senac.ads.ppfa.senaceduca.winforms\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
-              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
-              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCEAAAArAAAAAAAAAA==",
+              "Title": "FrmAlunoLocalizar.Designer.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.Designer.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.Designer.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.Designer.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T01:26:50.535Z",
+              "WhenOpened": "2026-11-11T23:27:43.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmAluno1.Designer.cs",
-              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.Designer.cs",
-              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.Designer.cs",
-              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.Designer.cs",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FrmAlunoLocalizar.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T01:05:36.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmAluno1.cs",
-              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs",
-              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs",
-              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T01:03:54.133Z",
+              "WhenOpened": "2026-11-11T22:50:10.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmAluno1.cs [Design]",
-              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs",
-              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs",
-              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs [Design]",
-              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno1.cs [Design]",
+              "Title": "FrmAlunoLocalizar.cs [Design]",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs [Design]",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAlunoLocalizar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T01:01:18.177Z",
+              "WhenOpened": "2026-11-11T22:50:08.898Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "FrmAluno.cs [Design]",
               "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs",
               "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs",
               "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs [Design]",
               "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T22:26:04.281Z",
+              "WhenOpened": "2026-11-11T22:47:21.365Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T01:26:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAluno.cs",
+              "DocumentMoniker": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs",
+              "RelativeDocumentMoniker": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs",
+              "ToolTip": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs",
+              "RelativeToolTip": "Senac.ADS.PPFA.SenacEduca.WinForms\\FrmAluno.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T01:03:54.133Z",
+              "EditorCaption": ""
             }
           ]
         }

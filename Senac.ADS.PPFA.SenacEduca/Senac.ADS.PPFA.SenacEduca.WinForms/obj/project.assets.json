@@ -15,6 +15,15 @@
           }
         }
       },
+      "Equin.ApplicationFramework.BindingListView/1.4.5222.35545": {
+        "type": "package",
+        "compile": {
+          "lib/net40-Client/Equin.ApplicationFramework.BindingListView.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/Equin.ApplicationFramework.BindingListView.dll": {}
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -795,6 +804,18 @@
         "lib/netstandard2.1/Castle.Core.dll",
         "lib/netstandard2.1/Castle.Core.xml",
         "readme.txt"
+      ]
+    },
+    "Equin.ApplicationFramework.BindingListView/1.4.5222.35545": {
+      "sha512": "TEGbrXoOLpeIej37BSNpCfAh+rt9SJAKqfGwx71DVgkOJjOU0UBKk2mjEHo9BnMtDlkmey0apFjT/8iIoGpSqQ==",
+      "type": "package",
+      "path": "equin.applicationframework.bindinglistview/1.4.5222.35545",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "equin.applicationframework.bindinglistview.1.4.5222.35545.nupkg.sha512",
+        "equin.applicationframework.bindinglistview.nuspec",
+        "lib/net40-Client/Equin.ApplicationFramework.BindingListView.dll"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -1981,6 +2002,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0-windows": [
+      "Equin.ApplicationFramework.BindingListView >= 1.4.5222.35545",
       "Microsoft.EntityFrameworkCore >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.15",
       "Microsoft.EntityFrameworkCore.Proxies >= 8.0.15",
@@ -2053,6 +2075,10 @@
         "framework": "net10.0-windows7.0",
         "targetAlias": "net10.0-windows",
         "dependencies": {
+          "Equin.ApplicationFramework.BindingListView": {
+            "target": "Package",
+            "version": "[1.4.5222.35545, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.15, )"
@@ -2410,6 +2436,16 @@
       "warningLevel": 1,
       "message": "Package 'MySqlConnector' 2.3.5 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
       "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Equin.ApplicationFramework.BindingListView 1.4.5222.35545' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Equin.ApplicationFramework.BindingListView",
       "targetGraphs": [
         "net10.0-windows"
       ]

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ehiKD/m2yfI=",
+  "dgSpecHash": "UbwGulrDHjU=",
   "success": true,
   "projectFilePath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antonio.3970\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\antonio.3970\\.nuget\\packages\\equin.applicationframework.bindinglistview\\1.4.5222.35545\\equin.applicationframework.bindinglistview.1.4.5222.35545.nupkg.sha512",
     "C:\\Users\\antonio.3970\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\antonio.3970\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\antonio.3970\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
@@ -49,6 +50,18 @@
       "warningLevel": 1,
       "filePath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj",
       "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Equin.ApplicationFramework.BindingListView 1.4.5222.35545' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Git\\PPFA\\Senac.ADS.PPFA.SenacEduca\\Senac.ADS.PPFA.SenacEduca.WinForms\\Senac.ADS.PPFA.SenacEduca.WinForms.csproj",
+      "libraryId": "Equin.ApplicationFramework.BindingListView",
       "targetGraphs": [
         "net10.0-windows"
       ]

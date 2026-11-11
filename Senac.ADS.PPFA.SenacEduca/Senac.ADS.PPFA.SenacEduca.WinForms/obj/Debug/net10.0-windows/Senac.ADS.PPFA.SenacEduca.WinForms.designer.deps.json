@@ -14,6 +14,14 @@
           }
         }
       },
+      "Equin.ApplicationFramework.BindingListView/1.4.5222.35545": {
+        "runtime": {
+          "lib/net40-Client/Equin.ApplicationFramework.BindingListView.dll": {
+            "assemblyVersion": "1.4.5222.35545",
+            "fileVersion": "1.4.1.0"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "runtime": {
           "lib/net6.0/Humanizer.dll": {
@@ -522,6 +530,13 @@
       "sha512": "sha512-rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
       "path": "castle.core/5.1.1",
       "hashPath": "castle.core.5.1.1.nupkg.sha512"
+    },
+    "Equin.ApplicationFramework.BindingListView/1.4.5222.35545": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TEGbrXoOLpeIej37BSNpCfAh+rt9SJAKqfGwx71DVgkOJjOU0UBKk2mjEHo9BnMtDlkmey0apFjT/8iIoGpSqQ==",
+      "path": "equin.applicationframework.bindinglistview/1.4.5222.35545",
+      "hashPath": "equin.applicationframework.bindinglistview.1.4.5222.35545.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",

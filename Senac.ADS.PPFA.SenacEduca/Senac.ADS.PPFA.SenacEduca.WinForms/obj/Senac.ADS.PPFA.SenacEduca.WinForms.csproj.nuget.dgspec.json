@@ -774,6 +774,10 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "dependencies": {
+            "Equin.ApplicationFramework.BindingListView": {
+              "target": "Package",
+              "version": "[1.4.5222.35545, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.15, )"
